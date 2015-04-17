@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+  h1 {
+    color: purple;
+    margin-left: 40px;
+    font-family: Helvetica;
+    font-size: 70px;
+    font-weight: 900;
+    }
+  body {
+    font-family: Helvetica;
+    font-weight: 100;
+  }
+  p1 {
+    color: purple;
+    font-weight: 100;
+  }
+  h2 {
+    color: purple;
+    font-weight: 100;
+  }
+  h4 {
+    color: purple;
+  }
+  h5 {
+    color: purple;
+    font-weight: 100;
+  }
+  div {
+    height: 300px;
+    width: 480px;
+    padding: 10px;
+    border: 3px solid purple;
+    margin: 0; 
+  }
+</style>
+</head>
